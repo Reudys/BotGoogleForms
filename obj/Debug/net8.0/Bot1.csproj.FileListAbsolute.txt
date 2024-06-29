@@ -20,3 +20,4 @@ C:\Users\Rey\Desktop\Aplicaciones\Programs\Programas\C#\Bot1\obj\Debug\net8.0\Bo
 C:\Users\Rey\Desktop\Aplicaciones\Programs\Programas\C#\Bot1\obj\Debug\net8.0\Bot1.genruntimeconfig.cache
 C:\Users\Rey\Desktop\Aplicaciones\Programs\Programas\C#\Bot1\obj\Debug\net8.0\ref\Bot1.dll
 C:\Users\Rey\Desktop\Aplicaciones\Programs\Programas\C#\Bot1\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\Rey\Desktop\Aplicaciones\Programs\Programas\C#\Bot1\obj\Debug\net8.0\Bot1.sourcelink.json
